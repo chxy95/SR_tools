@@ -1,0 +1,1 @@
+Asserts for the images generating by the scripts.
