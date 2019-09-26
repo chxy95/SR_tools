@@ -2,7 +2,7 @@
 The project is for providing some scripts and examples of tools for processing images in the field of SR.
 It contains:  
 - [extract_rect](https://github.com/chxy95/SR_tools#extract_rect)
-## Extract_rect
+## Extract ROI
 The script *extract_rect.py* is for extracting ROI from a group of images.  
 ### Usage
 Put the images for operation in the folder of *testset* and name them with the correct format as the example in the script.  
